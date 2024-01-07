@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3xn6TeEDgEb3GirNmv3XRSb/SUjobaYlK8HTSLEr4JQ=",
+  "Source": "MiddlewareLogin",
+  "BasePath": "_content/MiddlewareLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

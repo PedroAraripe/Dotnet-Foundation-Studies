@@ -12,9 +12,9 @@ Bem-vindo à Coleção de Projetos de Aprendizado em DotNET! Este repositório �
 
 ## Projetos
 
-### 1. Calculator_1
+### 1. Calculator
    Descrição: Api que permite fazer operações básicas com dois números.
-   - GitHub: [Calculator_1](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/Calculator_1)
+   - GitHub: [Calculator](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/Calculator_1)
 
 ### 2. MiddlewareLogin
    Descrição: Api que verifica por meio de um middleware se o usuários está utilizando login e senha corretos.

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "j9h+VkB5ezfWbVbiAqZHS380xLOMSV+LNpht/Q9zH3g=",
+  "Source": "BankApi",
+  "BasePath": "_content/BankApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApi\\wwwroot",
+      "Source": "BankApi",
+      "ContentRoot": "C:\\Users\\pedro\\projects\\github\\Dotnet-Foundation\\BankApi\\BankApi\\wwwroot\\",
+      "BasePath": "_content/BankApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pedro\\projects\\github\\Dotnet-Foundation\\BankApi\\BankApi\\wwwroot\\dummyPdf.pdf",
+      "SourceId": "BankApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro\\projects\\github\\Dotnet-Foundation\\BankApi\\BankApi\\wwwroot\\",
+      "BasePath": "_content/BankApi",
+      "RelativePath": "dummyPdf.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummyPdf.pdf"
+    }
+  ]
+}

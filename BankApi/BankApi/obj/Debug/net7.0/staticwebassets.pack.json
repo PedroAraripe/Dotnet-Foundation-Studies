@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pedro\\projects\\github\\Dotnet-Foundation\\BankApi\\BankApi\\wwwroot\\dummyPdf.pdf",
+      "PackagePath": "staticwebassets\\dummyPdf.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BankApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BankApi.props",
+      "PackagePath": "build\\BankApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BankApi.props",
+      "PackagePath": "buildMultiTargeting\\BankApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BankApi.props",
+      "PackagePath": "buildTransitive\\BankApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

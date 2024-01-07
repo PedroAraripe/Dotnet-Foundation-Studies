@@ -24,8 +24,6 @@ Bem-vindo à Coleção de Projetos de Aprendizado em DotNET! Este repositório �
    Descrição: Api de países que por meio de route constraints do dotnet valida se está sendo passado o id correto de um país para retorno de dados do mesmo.
    - GitHub: [Repositório do Projeto Três](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/CoutryApi)
 
-...
-
 Sinta-se à vontade para explorar o repositório de cada projeto para ver o código, documentação e notas associadas ao meu processo de aprendizado.
 
 ## Como Começar

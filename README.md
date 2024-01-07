@@ -14,15 +14,15 @@ Bem-vindo à Coleção de Projetos de Aprendizado em DotNET! Este repositório �
 
 ### 1. Calculator_1
    Descrição: Api que permite fazer operações básicas com dois números.
-   - GitHub: [Repositório do Projeto Um](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/Calculator_1)
+   - GitHub: [Calculator_1](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/Calculator_1)
 
 ### 2. MiddlewareLogin
    Descrição: Api que verifica por meio de um middleware se o usuários está utilizando login e senha corretos.
-   - GitHub: [Repositório do Projeto Dois](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/MiddlewareLogin)
+   - GitHub: [MiddlewareLogin](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/MiddlewareLogin)
 
 ### 3. CoutryApi
    Descrição: Api de países que por meio de route constraints do dotnet valida se está sendo passado o id correto de um país para retorno de dados do mesmo.
-   - GitHub: [Repositório do Projeto Três](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/CoutryApi)
+   - GitHub: [CoutryApi](https://github.com/PedroAraripe/Dotnet-Foundation/tree/main/CoutryApi)
 
 Sinta-se à vontade para explorar o repositório de cada projeto para ver o código, documentação e notas associadas ao meu processo de aprendizado.
 

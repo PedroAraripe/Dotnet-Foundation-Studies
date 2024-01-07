@@ -42,4 +42,6 @@ Embora este repositório sirva principalmente como um arquivo pessoal de aprendi
 
 Estes projetos de aprendizado são de código aberto e estão sob a [Licença MIT](LICENSE).
 
-Obrigado por explorar minha jornada de aprendizado em DotNET! 🚀 Feliz codificação!
+Obrigado por explorar minha jornada de aprendizado em DotNET!
+
+🚀 Feliz codificação!

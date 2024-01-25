@@ -1,19 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Primitives;
-using System;
+using OrdersApi.Models;
 
 namespace OrdersApi.Controllers
 {
     public class OrderController : Controller
     {
         [HttpPost("/order")]
-        async public Task<string> CreateOrderController()
+        public IActionResult CreateOrderController([FromBody] Order Order)
         {
-            StreamReader reader = new StreamReader(Request.Body);
-            string body = await reader.ReadToEndAsync();
-            Dictionary<string, StringValues> queryDict = Microsoft.AspNetCore.WebUtilities.QueryHelpers.ParseQuery(body);
+            if(!ModelState.IsValid)
+            {
+                IEnumerable<string> errorsList = ModelState.Values.SelectMany(value => value.Errors).Select(err => err.ErrorMessage);
+                string errors = string.Join("\n", errorsList);
 
-            return $"salve {queryDict["OrderDate"]} {System.Guid.NewGuid()}";
+                return BadRequest(errors);
+            }
+            else
+            {
+                return Order.CreateOrder();
+            }
         }
     }
 }
